@@ -1,4 +1,4 @@
-package producer_consumer.multi;
+package multi;
 
 public class Producer extends Thread {
 

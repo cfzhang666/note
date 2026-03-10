@@ -1,4 +1,4 @@
-package producer_consumer.multi;
+package multi;
 
 import java.util.LinkedList;
 import java.util.concurrent.TimeUnit;

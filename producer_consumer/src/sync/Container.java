@@ -1,4 +1,4 @@
-package producer_consumer.sync;
+package sync;
 
 import java.util.LinkedList;
 

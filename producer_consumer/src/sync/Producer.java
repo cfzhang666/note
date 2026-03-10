@@ -1,6 +1,9 @@
-package producer_consumer.lock;
+package sync;
 
-public class Producer extends  Thread{
+/**
+ * 生产者
+ */
+public class Producer extends Thread {
 
     private Container container;
 

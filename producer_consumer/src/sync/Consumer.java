@@ -1,20 +1,20 @@
-package producer_consumer.sync;
+package sync;
 
 /**
- * 生产者
+ * 消费者
  */
-public class Producer extends Thread {
+public class Consumer extends Thread {
 
     private Container container;
 
-    public Producer(Container container) {
+    public Consumer(Container container) {
         this.container = container;
     }
 
     @Override
     public void run() {
         for (int i = 0; i < 6; i++) {
-            container.put(i);
+            container.get();
         }
     }
 }

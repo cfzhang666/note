@@ -1,4 +1,4 @@
-package producer_consumer.lock;
+package lock;
 
 import java.util.LinkedList;
 import java.util.concurrent.TimeUnit;
