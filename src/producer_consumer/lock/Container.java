@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.lock;
+package producer_consumer.lock;
 
 import java.util.LinkedList;
 import java.util.concurrent.TimeUnit;

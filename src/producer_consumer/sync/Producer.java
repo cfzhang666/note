@@ -1,6 +1,9 @@
-package cn.cfzhang.ps.lock;
+package producer_consumer.sync;
 
-public class Producer extends  Thread{
+/**
+ * 生产者
+ */
+public class Producer extends Thread {
 
     private Container container;
 

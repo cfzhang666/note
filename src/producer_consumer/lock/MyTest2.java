@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.lock;
+package producer_consumer.lock;
 
 
 public class MyTest2 {

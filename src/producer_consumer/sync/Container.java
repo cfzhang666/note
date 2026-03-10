@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.sync;
+package producer_consumer.sync;
 
 import java.util.LinkedList;
 

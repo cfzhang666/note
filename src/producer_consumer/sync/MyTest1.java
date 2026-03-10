@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.sync;
+package producer_consumer.sync;
 
 public class MyTest1 {
     public static void main(String[] args) {

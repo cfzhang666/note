@@ -1,5 +1,4 @@
-package cn.cfzhang.ps.multi;
-
+package producer_consumer.sync;
 
 /**
  * 消费者

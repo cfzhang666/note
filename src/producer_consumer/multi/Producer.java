@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.multi;
+package producer_consumer.multi;
 
 public class Producer extends Thread {
 

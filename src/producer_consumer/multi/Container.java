@@ -1,4 +1,4 @@
-package cn.cfzhang.ps.multi;
+package producer_consumer.multi;
 
 import java.util.LinkedList;
 import java.util.concurrent.TimeUnit;
